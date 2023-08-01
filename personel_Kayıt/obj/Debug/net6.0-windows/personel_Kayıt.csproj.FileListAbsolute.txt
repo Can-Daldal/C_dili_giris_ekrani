@@ -1,0 +1,92 @@
+C:\Users\habip\OneDrive\Masaüstü\C#\personel_Kayıt\personel_Kayıt\bin\Debug\net6.0-windows\personel_Kayıt.exe
+C:\Users\habip\OneDrive\Masaüstü\C#\personel_Kayıt\personel_Kayıt\bin\Debug\net6.0-windows\personel_Kayıt.deps.json
+C:\Users\habip\OneDrive\Masaüstü\C#\personel_Kayıt\personel_Kayıt\bin\Debug\net6.0-windows\personel_Kayıt.runtimeconfig.json
+C:\Users\habip\OneDrive\Masaüstü\C#\personel_Kayıt\personel_Kayıt\bin\Debug\net6.0-windows\personel_Kayıt.dll
+C:\Users\habip\OneDrive\Masaüstü\C#\personel_Kayıt\personel_Kayıt\bin\Debug\net6.0-windows\personel_Kayıt.pdb
+C:\Users\habip\OneDrive\Masaüstü\C#\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.csproj.AssemblyReference.cache
+C:\Users\habip\OneDrive\Masaüstü\C#\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.Form1.resources
+C:\Users\habip\OneDrive\Masaüstü\C#\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.Properties.Resources.resources
+C:\Users\habip\OneDrive\Masaüstü\C#\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.csproj.GenerateResource.cache
+C:\Users\habip\OneDrive\Masaüstü\C#\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\habip\OneDrive\Masaüstü\C#\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.AssemblyInfoInputs.cache
+C:\Users\habip\OneDrive\Masaüstü\C#\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.AssemblyInfo.cs
+C:\Users\habip\OneDrive\Masaüstü\C#\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.csproj.CoreCompileInputs.cache
+C:\Users\habip\OneDrive\Masaüstü\C#\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.dll
+C:\Users\habip\OneDrive\Masaüstü\C#\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\refint\personel_Kayıt.dll
+C:\Users\habip\OneDrive\Masaüstü\C#\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.pdb
+C:\Users\habip\OneDrive\Masaüstü\C#\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.genruntimeconfig.cache
+C:\Users\habip\OneDrive\Masaüstü\C#\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\ref\personel_Kayıt.dll
+C:\Users\habip\OneDrive\Masaüstü\C#\personel_Kayıt\personel_Kayıt\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\habip\OneDrive\Masaüstü\C#\personel_Kayıt\personel_Kayıt\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\habip\OneDrive\Masaüstü\C#\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.csproj.CopyComplete
+C:\Users\habip\OneDrive\Masaüstü\C#\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.Frmİstatistik.resources
+C:\Users\habip\OneDrive\Masaüstü\C#\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.frmGiriş.resources
+C:\Users\habip\OneDrive\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\bin\Debug\net6.0-windows\personel_Kayıt.exe
+C:\Users\habip\OneDrive\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\bin\Debug\net6.0-windows\personel_Kayıt.deps.json
+C:\Users\habip\OneDrive\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\bin\Debug\net6.0-windows\personel_Kayıt.runtimeconfig.json
+C:\Users\habip\OneDrive\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\bin\Debug\net6.0-windows\personel_Kayıt.dll
+C:\Users\habip\OneDrive\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\bin\Debug\net6.0-windows\personel_Kayıt.pdb
+C:\Users\habip\OneDrive\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\habip\OneDrive\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\habip\OneDrive\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.csproj.AssemblyReference.cache
+C:\Users\habip\OneDrive\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.Form1.resources
+C:\Users\habip\OneDrive\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.frmGiriş.resources
+C:\Users\habip\OneDrive\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.Frmİstatistik.resources
+C:\Users\habip\OneDrive\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.Properties.Resources.resources
+C:\Users\habip\OneDrive\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.csproj.GenerateResource.cache
+C:\Users\habip\OneDrive\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\habip\OneDrive\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.AssemblyInfoInputs.cache
+C:\Users\habip\OneDrive\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.AssemblyInfo.cs
+C:\Users\habip\OneDrive\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.csproj.CoreCompileInputs.cache
+C:\Users\habip\OneDrive\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.csproj.CopyComplete
+C:\Users\habip\OneDrive\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.dll
+C:\Users\habip\OneDrive\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\refint\personel_Kayıt.dll
+C:\Users\habip\OneDrive\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.pdb
+C:\Users\habip\OneDrive\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.genruntimeconfig.cache
+C:\Users\habip\OneDrive\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\ref\personel_Kayıt.dll
+C:\Users\habip\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\bin\Debug\net6.0-windows\personel_Kayıt.exe
+C:\Users\habip\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\bin\Debug\net6.0-windows\personel_Kayıt.deps.json
+C:\Users\habip\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\bin\Debug\net6.0-windows\personel_Kayıt.runtimeconfig.json
+C:\Users\habip\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\bin\Debug\net6.0-windows\personel_Kayıt.dll
+C:\Users\habip\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\bin\Debug\net6.0-windows\personel_Kayıt.pdb
+C:\Users\habip\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\habip\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\habip\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.csproj.AssemblyReference.cache
+C:\Users\habip\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.Form1.resources
+C:\Users\habip\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.frmGiriş.resources
+C:\Users\habip\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.Frmİstatistik.resources
+C:\Users\habip\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.Properties.Resources.resources
+C:\Users\habip\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.csproj.GenerateResource.cache
+C:\Users\habip\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\habip\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.AssemblyInfoInputs.cache
+C:\Users\habip\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.AssemblyInfo.cs
+C:\Users\habip\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.csproj.CoreCompileInputs.cache
+C:\Users\habip\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.csproj.CopyComplete
+C:\Users\habip\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.dll
+C:\Users\habip\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\refint\personel_Kayıt.dll
+C:\Users\habip\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.pdb
+C:\Users\habip\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.genruntimeconfig.cache
+C:\Users\habip\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\ref\personel_Kayıt.dll
+C:\Users\canda\OneDrive\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\bin\Debug\net6.0-windows\personel_Kayıt.exe
+C:\Users\canda\OneDrive\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\bin\Debug\net6.0-windows\personel_Kayıt.deps.json
+C:\Users\canda\OneDrive\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\bin\Debug\net6.0-windows\personel_Kayıt.runtimeconfig.json
+C:\Users\canda\OneDrive\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\bin\Debug\net6.0-windows\personel_Kayıt.dll
+C:\Users\canda\OneDrive\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\bin\Debug\net6.0-windows\personel_Kayıt.pdb
+C:\Users\canda\OneDrive\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\canda\OneDrive\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\canda\OneDrive\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.csproj.AssemblyReference.cache
+C:\Users\canda\OneDrive\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.Form1.resources
+C:\Users\canda\OneDrive\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.frmGiriş.resources
+C:\Users\canda\OneDrive\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.Frmİstatistik.resources
+C:\Users\canda\OneDrive\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.Properties.Resources.resources
+C:\Users\canda\OneDrive\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.csproj.GenerateResource.cache
+C:\Users\canda\OneDrive\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\canda\OneDrive\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.AssemblyInfoInputs.cache
+C:\Users\canda\OneDrive\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.AssemblyInfo.cs
+C:\Users\canda\OneDrive\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.csproj.CoreCompileInputs.cache
+C:\Users\canda\OneDrive\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.csproj.CopyComplete
+C:\Users\canda\OneDrive\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.dll
+C:\Users\canda\OneDrive\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\refint\personel_Kayıt.dll
+C:\Users\canda\OneDrive\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.pdb
+C:\Users\canda\OneDrive\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\personel_Kayıt.genruntimeconfig.cache
+C:\Users\canda\OneDrive\Masaüstü\C# Otomason\personel_Kayıt\personel_Kayıt\obj\Debug\net6.0-windows\ref\personel_Kayıt.dll

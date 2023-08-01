@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wLj6bDeDCJhBS65Pi2cLmlFP0r3cpKb6EeCnh6frfP3AjOozbeI7fs4OK/vTukebBTSe+A/Jbm+i+fCnkAFmyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\canda\\OneDrive\\Masaüstü\\C# Otomason\\personel_Kayıt\\personel_Kayıt\\personel_Kayıt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\canda\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\canda\\.nuget\\packages\\npgsql\\7.0.2\\npgsql.7.0.2.nupkg.sha512",
+    "C:\\Users\\canda\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
